@@ -1,4 +1,4 @@
-hello: dev11123
+hello: dev111234
 spring:
   rabbitmq:
     host: 10.176.8.54
